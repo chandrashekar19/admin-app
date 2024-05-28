@@ -9,5 +9,3 @@ Built a Complete React Admin Dashboard App | React, Material UI, Data Grid, Ligh
 
 2. docker run -p 8080:80 admin-project
 
-3. 
-
